@@ -1,8 +1,5 @@
 ### Hi there here is what i'm working on. 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Html websites
 - 🌱 I’m currently learning ... C#
 - 👯 I’m looking to collaborate on ...
